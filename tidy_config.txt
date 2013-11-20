@@ -1,0 +1,10 @@
+// sample config file for HTML tidy
+indent: auto
+indent-spaces: 4
+wrap: 999
+char-encoding: utf8
+drop-empty-paras: 0
+drop-empty-elements: 0
+clean: 0
+doctype: html5
+merge-spans: 0
